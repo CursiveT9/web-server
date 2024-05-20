@@ -5,7 +5,7 @@ sudo apt install python3 python3-pip
 sudo pip3 install Flask
 sudo mkdir -p /var/www/app
 cd /var/www/app
-sudo git clone https://github.com/CursiveT9/web-server.git
+sudo git clone https://github.com/CursiveT9/web-server.git .
 
 Проверим: ls
 
